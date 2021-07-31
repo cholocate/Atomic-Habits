@@ -10,7 +10,7 @@
 - True behavior change is identity change. The only reason you will stick with a habit is that it becomes your identity. Improvements are only temporary until they become part of who you are.
 - Think about the bigger picture- the goal is not to get an A in CS61A, the goal is to become confident enouggh to solve any creative problem with H.O.Fs, recursion, trees, generators, linked lists, schemes, etc...
 - What you do is an indication of the type of person you believe that you are- either consciously or nonconsciously. 
-- When your behavior and your identity are fully alligned, you are no logner pursuing behavior change. You are simply acting like the type of person you already believe yourself to be.
+- When your behavior and your identity are fully alligned, you are no longer pursuing behavior change. You are simply acting like the type of person you already believe yourself to be.
 - The more deeply a thought or action is tied to your identity, the more difficult it is to change it.
 - Over the long run, the real reason you fail to stick with habits is that your self-image gets in the way. 
 - Progress requires unlearning. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity. 
