@@ -1,0 +1,38 @@
+## Chapter 3
+- Behaviors followed by satisfying consequences tend to be repeated and those that produce unpleasant consequences are less likely to be repeated.    
+- As habits are created, the level of activity in the brain decreasess. You learn to lock in on the cues that predict success and tune out everything else.    
+- There is no longer a need to analyze every angle of a situation. Your brain skips the process of trial and error and creates a mental rule: if this, then that.    
+- The primary reason the brain remembers the past is to better predict what will work in the future.    
+- The conscious mind is the bottleneck of the brain- it can only pay attention to one problem at a time, and so your brain is always working to preserve your conscious attention for whatever task is most essential.    
+- Habits do not restrict freedom. They create it. If you're always being forced to make decisions about simple tasks- when should I work out, where do I go to write, when I do pay the bills- then you have less time for freedom.
+- Building habits in the present allows you to do more of what you want in the future.
+- The process of building a habit can divided into four simple steps: cue, craving, response, and reward.
+    - The cue triggers your brain to initiate a behavior. It is a bit of information that predicts a reward. 
+        - We spend most of our time learning cues that predict secondary rewards like money and fame, power and status, praise and approval, love and friendship, or a sense of a personal satisfaction.
+        - Cue is the first indication that we're close to a reward, it naturally leads to a craving.
+    - Cravings are the motivational force behind every habit. What you crave is not the habit itself but the change in state it delivers. 
+        - You do not crave smoking a cigarette, you crave the feeling of relief it provides.
+        - Every craving is linked to a desire to change your **internal state**
+    - Cues are meaningless until they are interpreted. The thoughts feelings, and emotions of the observer are what transform a cue into a craving.
+    - The response is the actual habit you perform, which can take the form of a thought or an action. 
+        - Whether a response occurs depends on how motivated you are and how much friction is associated with the behavior.
+        - If a particular action requires more physical or mental effort than you are willing to expend, then you won't do it. Your response also depends on your ability. A habit can only occur if you are capable doing it.
+    - The response delivers a reward and is the end goal of every habit.
+        - We chase rewards because they serve two purposes: (1) they satisfy us and (2) they teach us. 
+- Feelings of pleasure and disappointment are part of the feedback mechanism that helps your brain distinguish useful actions from useless ones. Rewards close the feedback loop and complete the habit cycle.
+- If a behavior is insufficient in any of the four stages, it will not become a habit. 
+- The cue triggers a craving, which motivates a response, which provides a reward, which satisfies the craving and, ultimately, becomes associated with the cue. Together, these four steps form a neurological feedback loop- cue, craving, response, reward; cue, craving, ...
+- The Four laws of Behavior Chang provides a simple set of rules for creating good habits and breaking bad ones. 
+    - **How to Create a Good Habit**
+        - Cue: Make it obvious
+        - Craving: Make it attractive
+        - Response: Make it easy
+        - Reward: Make it satisfying
+    - **How to Break a Bad Habit**
+        - Cue: Make it invisible
+        - Craving: Make it unattractive
+        - Response: Make it difficult
+        - Reward: Make it satisfying 
+- The purpose of habit is to solve the problems of life with as little energy and effort as possible.
+- Any habit can be broken down into a feedback loop that involves the four steps: cue, craving, response, reward. 
+ 
