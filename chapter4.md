@@ -3,3 +3,26 @@
 - We can't always explain what it is we are learning, but learning is happening all along the way, and your ability to notice the relevant cues in a given situation is the foundation for every habit you have 
 - You do not tell your hair to grow, your heart to pump, your lungs to breathe, or your stomach to digest. And yet your body handles all this and more on autopilot. You are much more than your conscious self.
 - You don't need to be aware of the cue for a habit to begin. You can notice an opportunity and take action without dedicating conscious attention to it. 
+- As habits form, your actions come under the direction of your automatic and nonconscious mind. You fall into old patterns before realizing what is happening. The more you repeat these patterns, the less likely you become to question what you are doing and why you are doing it. 
+- Our responses to these cues are so deeply encoded that it may feel like the urge to act comes from nowhere. Consequently, we must begin the process of behavior change with **awareness. If a habit remains mindless, you can't expect to improve it.**
+- **Until you make the unconscious conscious, it will direct your life and you will call it fate.**
+- Many of our failures in performance are largely attributable to a lack of self-awareness. We can use a "Point-and-call" system to create a **Habits Scorecard** to become more aware of our daily behavior. 
+    - Habit Scorecard Sample 
+        - Wake up = 
+        - Turn off alarm = 
+        - Check my phome - 
+        - Go to the bathroom +
+        - Weigh myself + 
+        - Take a shower + 
+        - Brush my teeth + 
+        - Floss my teeth + 
+        - Get dressed = 
+        - Make cup of tea + 
+    - '+' '=' and '-' represents good, neutral, and bad habits. Though it can be slightly inaccurate.
+    - There are no good habits or bad habits. There are only effective habits
+    - All habits serve you in some way- even the bad ones- which is why we repeat them. 
+- When determining the quality of the habit, ask yourself, "Does this behavior help me **become the type of person I wish to be?** Does it cast a vote for or against **my desired identity?** Habits that reinforce your desired identity are good and otherwise are bad. 
+- If you waste time online, or binge-eat, **give notice** that you are spending your life in a way you don't want to. 
+- The first step to changing bad habits is to be on the lookout for them. 
+- Hearing your bad habits spoken aloud makes the consequences **more real**. It adds weight to the action rather than letting yourself mindlessly slip into an old routine.
+- **You are getting yourself to acknowledge the need for action- and that can make all the difference.**
