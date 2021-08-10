@@ -1,0 +1,33 @@
+## Chapter 5
+- Implementation Intention is a plan to make beforehand about when and where to act- this is how you intend to implement a particular habit. 
+- The two most common cues are time and location, I.I leverage both of these cues. 
+- General Format: "When situation X arises, I will perform response Y." 
+- I.I increase hte odds that people will stick to habits like recycling, studying, going to sleep early, and stopping smoking. 
+- People who make a specific plan for when and where they will perform a new habit are more likely to follow through. 
+- We tell ourselves, "I'm going to eat healthier" or "I'm ging to write more" but never say when and where these habits are going to happen. Leaving it up to chance and hope, or feel motivated enough at the time will do no good. 
+- An I.I sweeps away foggy notions like "I want to work out more" or "I want to be more productive" by transforming them into concrepte plans of action. 
+- **Many people think they lack motivtion when what they really lack is clarity. It is not always obvious when and where to take action. Some spend their entire lives waiting for the right time.**
+- Once an I.I has been set, you don't need to wait for inspiration to strike. 
+- **I.I Format: "I will [BEHAVIOR] AT [TIME] IN [LOCATION].**
+    - I will code for 61A for 20 minutes at 6 pm in my bedroom
+    - I will exercise for an hour at 7 am in my local gym
+    - I will make my partner a cupt of team at 8 am before she goes off to work ||.||
+- People are more likely to take action on the first day of week, month, or year as a mean of hope. 
+- Being specific about what you want and how you will achieve it helps you say no to things that derail progress, distract your attention, and pull you off course. 
+- **When your dreams are vague, it's easy to rationalize little exceptions all day long and never got around to specific things you need to succeed**.
+- The goal is to make time and location so obvious that with enough repetition, you get an urge to do the right thing at the right time, **even if you can't say why.** 
+- When it comes to building new habits, you can use the connectedness of behavior to your advantage.
+- Take advantage of **habit stacking**, a special form of I.I that pairs your new habit with a current habit that already has an I.I set previously. 
+- **Format: "After I [CURRENT HABIT], I WILL [NEW HABIT]"**
+    - After I take off my work shoes, I will immediately change to my workout clothes. 
+    - After I get into bed at night, I will give my partner a kiss ||.||
+- The key is to tie your desired behavior into something you already do each day. Once you've mastered the basic structure, create larger stacks by chaining small habits together. This allows you to take advantage of the **natural momentum that comes from one behavior leading into the next- a positive Diderot Effect.**
+- To read more each night. > Wake up > Make bed > Place book on pillow > Take shower. This way you climb into bed to read and enjoy. 
+- Once you get comfortable with this approach, you can develop general habit stacks to guide you whenever the sitution is appropriate
+    - When I see a set of stairs, I will take them instead of elevator. 
+    - When I want to by something above $100, I will wait a day before next purchase. 
+- **No matter how you use this strategy, the secret to creating a successful habit stack is selecting the right cue to kick things off.**
+- When and where you choose to insert a habit into your daily routine will make a big difference. **Don't ask yourself to do a habit when you are likely occupied with something else.**
+- If you want to do a habit everyday, stack it on top of another habit with the **same frequency.**
+- Habit stacking works best when cue is highly specific and immediately actionable. Many people select cues that are too vague. Specificity is important: After I brush my teeth. After I close the door. etc... 
+- **The more tightly bound your new habit is to a specific cue, the better the odds are that you will notice when the time comes to act. **
